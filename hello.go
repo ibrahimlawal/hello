@@ -1,10 +1,10 @@
 package main
 
 import (
-       "fmt"
-       "github.com/ibrahimlawal/stringutil"
+	"fmt"
+	"github.com/ibrahimlawal/stringutil"
 )
 
 func main() {
-   fmt.Printf(stringutil.Reverse("hallimsiB"))
+	fmt.Printf(stringutil.Reverse("hallimsiB"))
 }
